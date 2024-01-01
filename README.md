@@ -9,12 +9,6 @@ This repository contains code and documentation for a data analysis project focu
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Cleaning](#data-cleaning)
-- [Clustering Analysis](#clustering-analysis)
-- [Comparison and Conclusion](#comparison-and-conclusion)
-- [Findings and Recommendations](#findings-and-recommendations)
-- [License](#license)
 
 ## Project Structure
 
